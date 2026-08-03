@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="vaishnavi-github-banner.png" alt="GitHub Banner" width="100%">
+</p>
+
+# Data Analytics Portfolio
+
+Hi, I'm Vaishnavi Shitkal...
+
 # 📊 Data Analytics Portfolio
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
