@@ -74,6 +74,17 @@ Performed SQL operations on sample business datasets.
 - MySQL
 
 ---
+# 📊 Tableau Dashboard
+
+### 📌 Project Overview
+Created an interactive dashboard using Tableau to visualize sales data.
+
+### 🛠 Tools Used
+- Tableau
+
+### 📷 Dashboard Screenshot
+
+![Tableau Dashboard](tableau-dashboard.png)
 
 # 🐍 Python Project
 
