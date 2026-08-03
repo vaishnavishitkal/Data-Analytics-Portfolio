@@ -22,6 +22,9 @@ This project analyzes sales performance using Power BI. It includes interactive 
 - Product Performance
 - Customer Analysis
 - Interactive Filters
+- ## 📊 Power BI Dashboard
+
+![Power BI Dashboard](powerbi-dashboard.png)
 
 ### 🛠 Tools Used
 - Power BI
