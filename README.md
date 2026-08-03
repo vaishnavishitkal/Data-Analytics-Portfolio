@@ -54,6 +54,9 @@ Analyzed sales data using Microsoft Excel.
 
 ### 📷 Dashboard Screenshot
 *(Upload Excel dashboard screenshot here)*
+## 📈 Excel Dashboard
+
+![Excel Dashboard](excel-dashboard.png)
 
 ---
 
