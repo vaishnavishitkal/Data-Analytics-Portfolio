@@ -10,11 +10,12 @@
 Hi! I'm **Vaishnavi Shitkal**, an aspiring **Data Analyst** passionate about turning raw data into meaningful insights.
 
 ## 🛠 Skills
-- 📈 Excel (Pivot Tables, VLOOKUP, XLOOKUP, Charts)
-- 📊 Power BI (DAX, Power Query, Dashboards)
-- 🗄 SQL (MySQL, Joins, Subqueries, Aggregate Functions)
-- 🐍 Python (Pandas, NumPy, Matplotlib)
 
+- 📈 Excel
+- 📊 Power BI
+- 🗄 SQL
+- 🐍 Python
+- 📉 Tableau
 ---
 
 # 📊 Power BI Sales Dashboard
