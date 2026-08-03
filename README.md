@@ -94,7 +94,7 @@ Performed data analysis using Python.
 
 # 📬 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- 💼 LinkedIn: https://www.linkedin.com/in/vaishnavi-shitkal 
 - 💻 GitHub: https://github.com/vaishnavishitkal
 
 ⭐ Thank you for visiting my portfolio!
